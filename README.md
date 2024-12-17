@@ -17,4 +17,4 @@ SentencePiece
 Installataion
 1. Clone the repo
 2. Install all requirements
-3. Run through streamlit run 
+3. Run through streamlit run Summarizer.py
