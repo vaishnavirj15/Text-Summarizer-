@@ -76,9 +76,9 @@ git push heroku main
 ---
 
 ## **Notes**
-**Input Formats: Users can provide plain text or URLs for summarization**.
-**Translation: Supported for English, Hindi, and French**.
-**Customization: Adjust summary length based on your preference**.
+1. **Input Formats: Users can provide plain text or URLs for summarization**.
+2. **Translation: Supported for English, Hindi, and French**.
+3. **Customization: Adjust summary length based on your preference**.
 ---
 
 ## **Contributing**
