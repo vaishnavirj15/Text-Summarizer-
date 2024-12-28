@@ -63,17 +63,8 @@ This machine learning-based application is built using **Streamlit** and leverag
 2. **Create a new app and connect your GitHub repository**.
 3. **Set Summarizer.py as the main entry point**.
 4. **Deploy the app directly from Streamlit Cloud**.
-## **Deploy on Heroku**
-1. **Create a requirements.txt file with all the dependencies**.
-2. **Add a Procfile with the following content**:
-   ```text
-   web: streamlit run Summarizer.py --server.port=$PORT
-3. **Push the code to a Heroku app using Git**:
-   ```bash
-   heroku create app-name
-   git push heroku main
-   
 ---
+
 
 ## **Notes**
 1. **Input Formats: Users can provide plain text or URLs for summarization**.
