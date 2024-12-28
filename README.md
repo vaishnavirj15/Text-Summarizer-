@@ -69,10 +69,10 @@ This machine learning-based application is built using **Streamlit** and leverag
    ```text
    web: streamlit run Summarizer.py --server.port=$PORT
 3. **Push the code to a Heroku app using Git**:
-bash
-Copy code
-heroku create app-name
-git push heroku main
+   ```bash
+   heroku create app-name
+   git push heroku main
+   
 ---
 
 ## **Notes**
