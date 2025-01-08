@@ -3,3 +3,5 @@ transformers
 newspaper3k
 fpdf
 sentencepiece
+tf-keras
+lxml_html_clean
